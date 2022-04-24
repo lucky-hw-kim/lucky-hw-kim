@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.cakeresume.com/s--kEnmKEq7_ZJspsuSyKCmCA--/lucky-kim](https://www.cakeresume.com/s--kEnmKEq7_ZJspsuSyKCmCA--/lucky-kim)
 
-- ⚡ Fun fact **I love watching reality tv shows 😅**
+- ⚡ Fun fact **My guilty pleasure is binge watching reality tv shows 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
