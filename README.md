@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucky Kim</h1>
 <h3 align="center">A passionate full-Stack Web Developer from Vancouver, BC</h3>
 
-- 🔭 I’m currently working on [Jungle](https://github.com/lucky-hw-kim/scheduler)
+- 🔭 I’m currently working on [Jungle](https://github.com/lucky-hw-kim/jungle-rails)
 
 - 🌱 I’m currently learning **react and cypress**
 
