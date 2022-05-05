@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Jungle](https://github.com/lucky-hw-kim/jungle-rails)
 
-- 🌱 I’m currently learning **react and cypress**
+- 🌱 I’m currently learning **Ruby and Rails**
 
 - 📫 How to reach me **lucky.hw.kim@gmail.com**
 
