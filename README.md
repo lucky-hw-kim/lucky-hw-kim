@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucky Kim</h1>
 <h3 align="center">A passionate full-Stack Web Developer from Vancouver, BC</h3>
 
-- 🔭 I’m currently working on [Dev-Tools](https://github.com/lucky-hw-kim/Dev-tools)
+- 🔭 I’m currently working on [QE-Van](https://github.com/lucky-hw-kim/QE-Van) 
 
 - 🌱 I’m currently learning **React**
 
@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.cakeresume.com/s--kEnmKEq7_ZJspsuSyKCmCA--/lucky-kim](https://www.cakeresume.com/s--kEnmKEq7_ZJspsuSyKCmCA--/lucky-kim)
 
-- ⚡ **I don't bite 😬 Feel free to say Hi**
+- ⚡ 😬 Feel free to say Hi
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
