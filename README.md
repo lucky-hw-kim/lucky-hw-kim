@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [QE-Van](https://github.com/lucky-hw-kim/QE-Van) 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Graphql**
 
 - 📫 How to reach me **lucky.hw.kim@gmail.com**
 
