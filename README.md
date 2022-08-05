@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋  I'm Lucky Kim</h1>
 <h3 align="center">A passionate full-Stack Web Developer from Vancouver, BC</h3>
 
-- 🔭 I’m currently working on [Apatheric Arrangement](https://github.com/lucky-hw-kim/Apathetic-Arrangements) 
+- 🔭 I’m currently working on [Apathetic Arrangement](https://github.com/lucky-hw-kim/Apathetic-Arrangements) 
 
 - 🌱 I’m currently learning **Graphql**
 
