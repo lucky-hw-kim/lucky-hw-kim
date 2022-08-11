@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Apathetic Arrangement](https://github.com/lucky-hw-kim/Apathetic-Arrangements) 
 
-- 🌱 I’m currently learning **Graphql**
+- 🌱 I’m currently learning **Graphql & React Native**
 
 - 📫 How to reach me **lucky.hw.kim@gmail.com**
 
