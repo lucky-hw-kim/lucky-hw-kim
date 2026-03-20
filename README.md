@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋  I'm Lucky Kim</h1>
-<h3 align="center">A passionate full-Stack Web Developer from Vancouver, BC</h3>
+<h1 align="center">Hi I'm Lucky Kim</h1>
+<h3 align="center">A passionate lead full-Stack Web Developer / Product Manager from Vancouver, BC</h3>
 
 - 🔭 I’m currently working on [Clone Apps](https://github.com/lucky-hw-kim/deliveroo_clone) 
 
